@@ -1,5 +1,5 @@
-Akka [![Latest version](https://index.scala-lang.org/akka/akka/akka-actor/latest.svg)](https://index.scala-lang.org/akka/akka/akka-actor)[![Build Status](https://api.travis-ci.com/akka/akka.svg?branch=main)](https://travis-ci.com/github/akka/akka)
-====
+Pekko 
+=====
 
 We believe that writing correct concurrent & distributed, resilient and elastic applications is too hard.
 Most of the time it's because we are using the wrong tools and the wrong level of abstraction.
